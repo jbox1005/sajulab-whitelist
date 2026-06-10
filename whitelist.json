@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-10T05:37:49.051Z",
+  "updatedAt": "2026-06-10T07:34:16.577Z",
   "entries": [
     {
       "hash": "685D-9FD3-82DC-731B",
@@ -11,6 +11,11 @@
       "hash": "B484-824F-C0F8-1451",
       "note": "전용재ios",
       "registeredAt": "2026-06-10T05:37:49.051Z"
+    },
+    {
+      "hash": "A3DC-2016-BC58-6CCB",
+      "note": "전용재ios",
+      "registeredAt": "2026-06-10T07:34:16.577Z"
     }
   ]
 }
