@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-10T09:37:55.493Z",
+  "updatedAt": "2026-06-10T13:17:57.289Z",
   "entries": [
     {
       "hash": "685D-9FD3-82DC-731B",
@@ -31,6 +31,11 @@
       "hash": "3397-AB84-8BE2-F904",
       "note": "ios",
       "registeredAt": "2026-06-10T09:37:55.493Z"
+    },
+    {
+      "hash": "375A-40B6-AE6E-DEC5",
+      "note": "임윤지",
+      "registeredAt": "2026-06-10T13:17:57.289Z"
     }
   ]
 }
