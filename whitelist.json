@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-10T08:31:39.150Z",
+  "updatedAt": "2026-06-10T09:37:55.493Z",
   "entries": [
     {
       "hash": "685D-9FD3-82DC-731B",
@@ -26,6 +26,11 @@
       "hash": "F8D7-42A8-5B8B-8132",
       "note": "ios",
       "registeredAt": "2026-06-10T08:31:39.149Z"
+    },
+    {
+      "hash": "3397-AB84-8BE2-F904",
+      "note": "ios",
+      "registeredAt": "2026-06-10T09:37:55.493Z"
     }
   ]
 }
