@@ -1,11 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-10T04:47:50.705Z",
+  "updatedAt": "2026-06-10T05:37:49.051Z",
   "entries": [
     {
       "hash": "685D-9FD3-82DC-731B",
       "note": "전용재",
       "registeredAt": "2026-06-10T04:47:50.705Z"
+    },
+    {
+      "hash": "B484-824F-C0F8-1451",
+      "note": "전용재ios",
+      "registeredAt": "2026-06-10T05:37:49.051Z"
     }
   ]
 }
