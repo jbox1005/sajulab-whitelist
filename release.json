@@ -1,0 +1,32 @@
+{
+  "_comment": "jbox1005/sajulab-whitelist 저장소 루트에 release.json 이름으로 올린다. Worker가 GET /release?app=<id> 로 서빙한다.",
+  "apps": {
+    "sajulab": {
+      "latest": {
+        "version": "1.0.0",
+        "released": "2026-06-10",
+        "downloadUrl": "https://www.notion.so/345c7df8a9fb80d392e7edab005a5b20",
+        "notes": [
+          "데스크탑(Windows) 버전 최초 배포",
+          "라이센스 활성화 기능 추가"
+        ]
+      },
+      "notices": [
+        {
+          "id": "2026-07-29-notice-feature",
+          "date": "2026-07-29",
+          "level": "info",
+          "title": "공지 기능이 추가되었습니다",
+          "body": "새 소식과 새 버전 안내를 앱 안에서 바로 확인할 수 있습니다. 상단 '공지' 버튼에 빨간 점이 보이면 읽지 않은 소식이 있다는 뜻입니다."
+        },
+        {
+          "id": "2026-06-10-desktop-release",
+          "date": "2026-06-10",
+          "level": "info",
+          "title": "사주랩 데스크탑 버전이 나왔습니다",
+          "body": "Windows 설치 파일로 사주랩을 쓸 수 있습니다. 설치 후 표시되는 기기 코드를 알려주시면 활성화해 드립니다."
+        }
+      ]
+    }
+  }
+}
