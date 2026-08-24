@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-24T00:49:38.484Z",
+  "updatedAt": "2026-08-24T03:20:00.003Z",
   "entries": [
     {
       "hash": "375A-40B6-AE6E-DEC5",
@@ -11,6 +11,11 @@
       "hash": "FCDA-6EE5-8C8D-0F29",
       "note": "전용재(현재폰)",
       "registeredAt": "2026-08-24T00:49:38.484Z"
+    },
+    {
+      "hash": "F622-6311-9B30-EBFD",
+      "note": "김가영",
+      "registeredAt": "2026-08-24T03:20:00.003Z"
     }
   ]
 }
