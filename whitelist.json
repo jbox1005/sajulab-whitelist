@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-24T00:42:50.192Z",
+  "updatedAt": "2026-08-24T00:42:53.534Z",
   "entries": [
     {
       "hash": "685D-9FD3-82DC-731B",
@@ -16,11 +16,6 @@
       "hash": "FCDA-6EE5-8C8D-0F29",
       "note": "용재",
       "registeredAt": "2026-06-11T08:39:24.561Z"
-    },
-    {
-      "hash": "28D8-A04E-EC4C-0137",
-      "note": "전용재260729",
-      "registeredAt": "2026-07-29T12:58:28.363Z"
     }
   ]
 }
