@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-25T03:37:09.879Z",
+  "updatedAt": "2026-08-25T03:38:50.581Z",
   "entries": [
     {
       "hash": "375A-40B6-AE6E-DEC5",
@@ -26,11 +26,6 @@
       "hash": "F52E-81B6-7C65-1446",
       "note": "박동운",
       "registeredAt": "2026-08-24T15:58:34.122Z"
-    },
-    {
-      "hash": "F0D0-4AC6-2879-A12E",
-      "note": "김형곤",
-      "registeredAt": "2026-08-25T03:37:09.879Z"
     }
   ]
 }
