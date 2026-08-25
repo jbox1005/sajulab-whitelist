@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-25T05:06:41.000Z",
+  "updatedAt": "2026-08-25T05:07:12.634Z",
   "entries": [
     {
       "hash": "375A-40B6-AE6E-DEC5",
@@ -28,9 +28,9 @@
       "registeredAt": "2026-08-25T03:39:10.513Z"
     },
     {
-      "hash": "5784-BBCA-51A8-5AED",
-      "note": "전용재 아이폰",
-      "registeredAt": "2026-08-25T05:06:41.000Z"
+      "hash": "C824-FFC1-BA90-D40D",
+      "note": "테스트",
+      "registeredAt": "2026-08-25T04:34:27.126Z"
     }
   ]
 }
