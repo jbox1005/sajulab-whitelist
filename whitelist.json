@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-25T11:09:00.135Z",
+  "updatedAt": "2026-08-26T03:21:50.116Z",
   "entries": [
     {
       "hash": "375A-40B6-AE6E-DEC5",
@@ -41,6 +41,11 @@
       "hash": "48EB-D701-3A49-EB47",
       "note": "전용재 노트북",
       "registeredAt": "2026-08-25T11:09:00.135Z"
+    },
+    {
+      "hash": "6D7B-1C9F-227A-AFE7",
+      "note": "황소현",
+      "registeredAt": "2026-08-26T03:21:50.116Z"
     }
   ]
 }
