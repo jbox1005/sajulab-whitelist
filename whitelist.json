@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-26T03:21:50.116Z",
+  "updatedAt": "2026-09-04T03:37:46.840Z",
   "entries": [
     {
       "hash": "375A-40B6-AE6E-DEC5",
@@ -46,6 +46,11 @@
       "hash": "6D7B-1C9F-227A-AFE7",
       "note": "황소현",
       "registeredAt": "2026-08-26T03:21:50.116Z"
+    },
+    {
+      "hash": "7878-9B78-B0C3-5D25",
+      "note": "이지애",
+      "registeredAt": "2026-09-04T03:37:46.840Z"
     }
   ]
 }
